@@ -1,2 +1,2 @@
 # SQLServerScripts
-I have uploaded all my SQL Server scripts which I use for my administration purpose.
+This repository contains all the scripts which I have been using to perform administration activities.
